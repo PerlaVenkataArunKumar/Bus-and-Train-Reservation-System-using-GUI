@@ -21,7 +21,7 @@ public class LoginPage extends JFrame {
     // Database connection properties
     private static final String DB_URL = "jdbc:mysql://localhost:3306/arun";
     private static final String DB_USERNAME = "root";
-    private static final String DB_PASSWORD = "Arun@7575";
+    private static final String DB_PASSWORD = "*********";
 
     // Constructor
     public LoginPage() {
